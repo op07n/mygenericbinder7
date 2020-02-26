@@ -1,5 +1,6 @@
 dependencies:
   - nbserverproxy
+  * nbgitpuller 
   - tornado>6
   - intake
   - pyviz/label/dev::geoviews-core=1.6.2
