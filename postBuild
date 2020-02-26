@@ -1,3 +1,4 @@
+jupyter serverextension enable --py nbgitpuller --sys-prefix
 # enable nbserverproxy
 jupyter serverextension enable --sys-prefix nbserverproxy
 # ensure matplotlib uses agg backend
